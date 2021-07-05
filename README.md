@@ -8,7 +8,8 @@ These programs are intended to run on BH3 manufactured by BiZright Technology In
 
 ![DSCF0562](./DSCF0562.JPG)
 
-#### general switch
+
+### general switch
 
 Build command: 			
 
@@ -30,7 +31,7 @@ Pyton script:
 
 
 
-#### general switch
+### general switch
 
 Build command:			
 
