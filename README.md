@@ -4,4 +4,4 @@ This repository contains following sample source program.
 
 These programs are intended to run on BH3 manufactured by BiZright Technology Inc.
 
-![DSCF0562](C:\Users\e_saito\Documents\tools\git\BH3-sample\DSCF0562.JPG)
+![DSCF0562](./DSCF0562.JPG)
