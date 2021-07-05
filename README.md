@@ -10,10 +10,10 @@ These programs are intended to run on BH3 manufactured by BiZright Technology In
 
 <general switch>
 Build command:            gcc -lwiringPi -o bhButton bhButton.c
-Execution command:   sudo ./bhButton
-Pyton script:                   sudo python bhButton.py
+Execution command:   　　　sudo ./bhButton
+Pyton script:             sudo python bhButton.py
 
 <general switch>
 Build command:            gcc -lwiringPi -o bhLED bhLED.c
-Execution command:   sudo ./bhLED
-Pyton script:                  sudo python bhLED.py
+Execution command:   　　　sudo ./bhLED
+Pyton script:             sudo python bhLED.py
