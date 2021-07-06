@@ -11,15 +11,10 @@ These programs are intended to run on BH3 manufactured by BiZright Technology In
 
 ### General switch
 
-Build command: 			
+Build and run:
 
 ```
 % gcc -lwiringPi -o bhButton bhButton.c
-```
-
-Execution command: 	
-
-```
 % sudo ./bhButton
 ```
 
@@ -33,15 +28,10 @@ Pyton script:
 
 ### General LED
 
-Build command:			
+Build and run:			
 
 ```
 % gcc -lwiringPi -o bhLED bhLED.c
-```
-
-Execution command:	
-
-```
 % sudo ./bhLED
 ```
 
