@@ -31,7 +31,7 @@ Pyton script:
 
 
 
-### General switch
+### General LED
 
 Build command:			
 
