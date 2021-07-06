@@ -11,7 +11,7 @@ These programs are intended to run on BH3 manufactured by BiZright Technology In
 
 ### General switch
 
-Build and run:
+C Build and run:
 
 ```
 % gcc -lwiringPi -o bhButton bhButton.c
@@ -28,7 +28,7 @@ Pyton script:
 
 ### General LED
 
-Build and run:			
+C Build and run:			
 
 ```
 % gcc -lwiringPi -o bhLED bhLED.c
